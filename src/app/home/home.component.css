@@ -1,0 +1,99 @@
+.hello{
+    height: 55vh;
+    background-color: black  !important;
+        
+}
+
+.espada{
+    position: absolute;
+    left:27%;
+    top: 35% !important;
+}
+
+.fs-54{
+    font-size: 34px;
+    color:aliceblue;
+}
+
+.fs-18{
+    font-size: 18px;
+    color:aliceblue;
+}
+
+body {
+    background-color: #eee;
+  }
+  .title {
+   
+      margin-bottom: 50px;
+      text-transform: uppercase;
+  }
+  
+  .card-block {
+      font-size: 1em;
+      position: relative;
+      margin: 0;
+      padding: 1em;
+      border: none;
+      border-top: 1px solid rgba(34, 36, 38, .1);
+      box-shadow: none;
+       
+  }
+  .card {
+      font-size: 1em;
+      overflow: hidden;
+      padding: 5;
+      border: none;
+      border-radius: .28571429rem;
+      box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+      margin-top:20px;
+      
+  }
+  
+  .btn {
+    margin-top: auto;
+  }
+
+  .container-fluid{
+      background-color: black;
+  }
+
+  .links {
+    height: 200px !important;
+    width: 350px !important;
+  }
+
+  .links1 {
+    height: 200px !important;
+    width: 340px !important;
+  }
+
+  .acesse{
+    background-color: #eee !important;
+   
+  }
+
+  .acesse1{
+    background-color: #eee !important;
+    margin-top: 15% !important;
+ }
+
+ .acesse2{
+    background-color: #eee !important;
+    margin-top: 10% !important;
+ }
+
+ .gif img {
+   width: 100% !important;
+   height: 70vh !important;
+
+ }
+
+ .hbo {
+   background-color: black;
+ }
+
+ .hbo2 {
+   background-color:  rgba(0,0,0,0.2);
+   color: #eee;
+ } 
